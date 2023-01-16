@@ -1,6 +1,9 @@
 
 # Created by https://www.gitignore.io/api/osx,linux,python,windows,pycharm,visualstudiocode
 
+# packaged-template
+packaged-template.yml
+
 ### Linux ###
 *~
 
